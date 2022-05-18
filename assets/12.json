@@ -1,0 +1,26 @@
+{
+  "name": "3",
+  "symbol": "DARC",
+  "image": "12.png",
+  "properties": {
+    "files": [{ "uri": "12.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Bs6NMrg8XgMiytbgzVY74j28WRospD6Gqt41zTDfQqAX",
+        "share": 100
+      }
+    ]
+  },
+  "description": "",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "background", "value": "light-pink" },
+    { "trait_type": "eyes", "value": "star-eyes" },
+    { "trait_type": "mouth", "value": "triangle-mouth" },
+    { "trait_type": "face", "value": "sun-face" }
+  ],
+  "collection": {
+    "name": "Liz's v2 Collections"
+  }
+}

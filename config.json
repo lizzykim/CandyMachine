@@ -1,17 +1,20 @@
 {
-  "price": 1.0,
-  "number": 10,
-  "gatekeeper": null,
-  "solTreasuryAccount": "DfTr1YLgaphAXVkArJtyCsiU69SLyRE8hyqogvQdtbyw",
-  "splTokenAccount": null,
-  "splToken": null,
-  "goLiveDate": "25 Dec 2023 00:00:00 GMT",
+  "price": 3,
+  "number": 20,
+  "gatekeeper": {
+    "gatekeeperNetwork": "ignREusXmGrscGNUesoU9mxfds9AiYTezUKex2PsZV6",
+    "expireOnUse": false
+  },
+  "solTreasuryAccount": null,
+  "splTokenAccount": "2p5Rf9dpUYPcH9jPENhEVKdTqgw2N264kccMb5HgomVu",
+  "splToken": "CTM6M1LCBipuJ9zQ27jyYsfr11QKw2H4NRrevs9XUUVu",
+  "goLiveDate": null,
   "endSettings": null,
   "whitelistMintSettings": {
-    "mode": { "neverBurn": true },
-    "mint": "WLpPr3Wx4tQEFrHz4N2FRcW8nvarT9A8Ny23mmFFpco",
+    "mode": { "burnEveryTime": true },
+    "mint": "WLVzkCW6k8T4gs5z2Jb71A84juwRh6Ase7fqXwgew8s",
     "presale": true,
-    "discountPrice": 0.5
+    "discountPrice": null
   },
   "hiddenSettings": null,
   "storage": "arweave-sol",
